@@ -2,8 +2,8 @@
 Personal projects on some typical datasets (e. g. CIFAR10, MNIST ect.) with PyTorch. The propose of these projects is to construct a complete pipeline from data preparation, to model training, then to performance visualization. Different models and different optimization strategies are also to be evaluated. 
 
 ## Datasets
-
 ### CIFAR10
+[CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ### MNIST
 
