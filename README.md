@@ -6,13 +6,10 @@ Personal projects on some typical datasets (e. g. CIFAR10, MNIST ect.) with PyTo
 The [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) are labeled subsets of the 80 million tiny images dataset. The CIFAR-10 dataset consists of 60000 coloured images in 10 classes, where each image has a dimension of 32x32. There are 50000 training images and 10000 test images. The validation set is taken from training set with probability 20%.
 
 ### MNIST
-The MNIST database is a large database of handwritten digits that are labeled by true digits they represent. Each handwritten digit is shown on a grayscale picture 
-
-The MNIST database contains 60,000 training images and 10,000 testing images.
-
-The CIFAR-10 dataset consists of 60000 coloured images in 10 classes, where each image has a dimension of 32x32. There are 50000 training images and 10000 test images. The validation set is taken from training set with probability 20%.
+The MNIST database is a large database of handwritten digits that are shown on a grayscale picture with a dimension of 28x28 and labeled by true digits they represent. The MNIST database contains 60,000 training images and 10,000 testing images. The validation set is taken from training set with probability 20%.
 
 ## File Architecture
+
 
 ## Result evaluation
 
