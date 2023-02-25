@@ -16,8 +16,10 @@ The MNIST database is a large database of handwritten digits that are shown on a
 * `outputs` : The default folder to save trained models.
 * `training_and_testing` : The folder consists of Python files to define a training/testing process.
 * `utilities` : The folder consists of tools to generate logs, to visualize training results etc.
-* `main.py` : Specify which datasets you want to learn, then, you can start training.
-* `cifar10.ipynb` : The IPython Notebook to train models on CIFAR10 alternatively.
-* `mnist.ipynb` : The IPython Notebook to train models on MNIST alternatively.
+
+&emsp;
+* `main.py` : Specify which datasets you want to learn, then you can start training.
+* `cifar10.ipynb` : A IPython Notebook to train models on CIFAR10.
+* `mnist.ipynb` : A IPython Notebook to train models on MNIST.
 
 ## Result evaluation
