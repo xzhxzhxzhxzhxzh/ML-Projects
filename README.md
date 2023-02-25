@@ -10,14 +10,14 @@ The MNIST database is a large database of handwritten digits that are shown on a
 
 ## File Architecture
 * `data` : The default folder to save downloaded datasets.
-* `data_preparation` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
-* `logs` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
-* `models` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
-* `outputs` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
-* `training_and_testing` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
-* `utilities` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
-* `main.py` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
-* `cifar10.ipynb` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
-* `mnist.ipynb` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `data_preparation` : Define a process to acquire data and generate transformed dataset.
+* `logs` : The default folder to save logs.
+* `models` : The folder consists of different models. 
+* `outputs` : The default folder to save trained models.
+* `training_and_testing` : Define a process to train and test models.
+* `utilities` : The folder consists of tools to generate logs, to visualize training results etc.
+* `main.py` : 
+* `cifar10.ipynb` : 
+* `mnist.ipynb` : 
 
 ## Result evaluation
