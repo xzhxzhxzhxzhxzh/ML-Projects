@@ -9,28 +9,15 @@ The [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) are labeled subsets 
 The MNIST database is a large database of handwritten digits that are shown on a grayscale picture with a dimension of 28x28 and labeled by true digits they represent. The MNIST database contains 60,000 training images and 10,000 testing images. The validation set is taken from training set with probability 20%.
 
 ## File Architecture
-
+* `data` : The default folder to save downloaded datasets.
+* `data_preparation` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `logs` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `models` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `outputs` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `training_and_testing` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `utilities` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `main.py` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `cifar10.ipynb` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
+* `mnist.ipynb` : [Based on DL.ai cats.py](https://github.com/EN10/DL.ai/blob/master/w2/cats.py)
 
 ## Result evaluation
-
-
-
-
-
-<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/HongKong_1.jpg" width="700px">
-<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/HongKong_2.jpg" width="700px">
-<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/HongKong_3.jpg" width="700px">
-<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/HongKong_4.jpg" width="700px">
-<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/HongKong_5.jpg" width="700px">
-
-Task 3: Oil Painting
-This is not a real picture but an oil painting, nevertheless, my program has successfully reconstructed its 3D space with some foreground objects. You can just take a look at the result via oil-painting.fig because it is a reletive simple image.
-
-<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/oil-painting.png" width="700px">
-
-Task 4: Simple Room
-This is also an oil painting. You can take a look at the result via simple-room.fig.
-
-<img src="https://github.com/xzhxzhxzhxzhxzh/CV-Project/blob/main/Images/simple-room.png" width="700px">
-
-Owing to time constraints, I will give the other details later.
