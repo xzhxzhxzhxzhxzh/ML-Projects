@@ -1,5 +1,5 @@
 # ML-Projects
-Personal projects on some typical datasets (e. g. CIFAR10, MNIST ect.) with [PyTorch](https://pytorch.org/). The propose of these projects is to construct a complete pipeline from data preparation, to model training, then to performance visualization. Different models and different optimization strategies are also to be evaluated. 
+Personal projects on some typical datasets (e. g. CIFAR10, MNIST ect.) with **[PyTorch](https://pytorch.org/)**. The propose of these projects is to create a complete pipeline from **data preparation**, to **model training**, then to **performance visualization**. Different models and different optimization strategies are also to be evaluated. 
 
 ## Datasets
 ### CIFAR10
