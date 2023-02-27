@@ -21,5 +21,3 @@ The MNIST database is a large database of handwritten digits that are shown on a
 * `main.py` : Specify which datasets you want to learn, then you can start training.
 * `cifar10.ipynb` : A IPython Notebook to train models on CIFAR10.
 * `mnist.ipynb` : A IPython Notebook to train models on MNIST.
-
-## Result
